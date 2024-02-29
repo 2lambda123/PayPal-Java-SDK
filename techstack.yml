@@ -2,7 +2,7 @@ repo_name: 2lambda123/PayPal-Java-SDK
 report_id: 86fe2ca4a9cd2064b821b53e1593128f
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-09T06:53:34+00:00'
+timestamp: '2024-02-29T19:16:34+00:00'
 requested_by: lmarkus
 provider: github
 branch: master
@@ -259,24 +259,24 @@ tools:
   last_updated_by: Rohit Basu
   last_updated_on: 2020-06-26 19:14:38.000000000 Z
   vulnerabilities:
-  - name: Remote code injection in Log4j
-    cve_id: CVE-2021-44228
-    cve_url: https://github.com/advisories/GHSA-jfh8-c2jp-5v3q
-    detected_date: Dec 14
-    severity: critical
-    first_patched: 2.3.1
-  - name: Incomplete fix for Apache Log4j vulnerability
-    cve_id: CVE-2021-45046
-    cve_url: https://github.com/advisories/GHSA-7rjr-3q55-vv33
-    detected_date: Dec 14
-    severity: critical
-    first_patched: 2.12.2
   - name: Deserialization of Untrusted Data in Log4j
     cve_id: CVE-2017-5645
     cve_url: https://github.com/advisories/GHSA-fxph-q3j8-mv87
     detected_date: Jan 28
     severity: critical
     first_patched: 2.8.2
+  - name: Incomplete fix for Apache Log4j vulnerability
+    cve_id: CVE-2021-45046
+    cve_url: https://github.com/advisories/GHSA-7rjr-3q55-vv33
+    detected_date: Dec 14
+    severity: critical
+    first_patched: 2.12.2
+  - name: Remote code injection in Log4j
+    cve_id: CVE-2021-44228
+    cve_url: https://github.com/advisories/GHSA-jfh8-c2jp-5v3q
+    detected_date: Dec 14
+    severity: critical
+    first_patched: 2.3.1
   - name: Apache Log4j2 vulnerable to Improper Input Validation and Uncontrolled Recursion
     cve_id: CVE-2021-45105
     cve_url: https://github.com/advisories/GHSA-p6xc-xr62-6r2g
@@ -295,7 +295,7 @@ tools:
     cve_url: https://github.com/advisories/GHSA-vwqq-5vrc-xw9h
     detected_date: Jan 28
     severity: low
-    first_patched: 2.13.2
+    first_patched: 2.3.2
 - name: org.apache.logging.log4j:log4j-slf4j-impl
   description: Binding between SLF4J API and Log4J2 Core
   version: '2.1'
