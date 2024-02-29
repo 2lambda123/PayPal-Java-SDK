@@ -3,10 +3,10 @@
 ## Tech Stack
 2lambda123/PayPal-Java-SDK is built on the following main stack:
 
-- [Gradle](https://www.gradle.org/) – Java Build Tools
-- [Ruby](https://www.ruby-lang.org) – Languages
 - [Java](https://www.java.com) – Languages
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Ruby](https://www.ruby-lang.org) – Languages
+- [Gradle](https://www.gradle.org/) – Java Build Tools
 - [Mockito](https://site.mockito.org/) – Testing Frameworks
 - [SLF4J](http://slf4j.org/) – Log Management
 - [TestNG](http://testng.org/doc/) – Testing Frameworks
@@ -20,10 +20,10 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 2lambda123/PayPal-Java-SDK is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/2021/4y634TJm_400x400.jpg' alt='Mockito'/> [Mockito](https://site.mockito.org/) – Testing Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/2805/05518ecaa42841e834421e9d6987b04f_400x400.png' alt='SLF4J'/> [SLF4J](http://slf4j.org/) – Log Management
 - <img width='25' height='25' src='https://img.stackshare.io/service/8900/no-img-open-source.png' alt='TestNG'/> [TestNG](http://testng.org/doc/) – Testing Frameworks
@@ -38,7 +38,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/PayPal-Java-SDK](https://github.com/2lambda123/PayPal-Java-SDK)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|22<br/>Tools used|01/09/24 <br/>Report generated|
+|22<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -136,7 +136,7 @@ Full tech stack [here](/techstack.md)
 |[javax.xml.bind:jaxb-api](https://github.com/javaee/jaxb-spec)|v2.3.0|06/26/20|Rohit Basu |CDDL-1.1,CNRI-Python-GPL-Compatible|N/A|
 |[log4j:log4j](http://logging.apache.org/log4j/1.2/)|v1.2.14|10/13/16|Jay Patel |Apache-2.0|[CVE-2022-23305](https://github.com/advisories/GHSA-65fg-84f6-3jq3) (Critical)<br/>[CVE-2022-23307](https://github.com/advisories/GHSA-f7vh-qwp3-x37m) (Critical)<br/>[CVE-2019-17571](https://github.com/advisories/GHSA-2qrg-x229-3v8q) (Critical)<br/>[CVE-2022-23302](https://github.com/advisories/GHSA-w9p3-5cr8-m3jj) (High)<br/>[CVE-2021-4104](https://github.com/advisories/GHSA-fp5r-v3w9-4333) (High)|
 |[org.apache.logging.log4j:log4j-api](https://logging.apache.org/log4j/2.x/)|v2.1|06/26/20|Rohit Basu |Apache-2.0|[CVE-2021-45046](https://github.com/advisories/GHSA-7rjr-3q55-vv33) (Critical)<br/>[CVE-2021-44228](https://github.com/advisories/GHSA-jfh8-c2jp-5v3q) (Critical)<br/>[CVE-2021-45105](https://github.com/advisories/GHSA-p6xc-xr62-6r2g) (High)<br/>[CVE-2021-44832](https://github.com/advisories/GHSA-8489-44mv-ggj8) (Moderate)|
-|[org.apache.logging.log4j:log4j-core](https://logging.apache.org/log4j/2.x/)|v2.1|06/26/20|Rohit Basu |Apache-2.0|[CVE-2021-44228](https://github.com/advisories/GHSA-jfh8-c2jp-5v3q) (Critical)<br/>[CVE-2021-45046](https://github.com/advisories/GHSA-7rjr-3q55-vv33) (Critical)<br/>[CVE-2017-5645](https://github.com/advisories/GHSA-fxph-q3j8-mv87) (Critical)<br/>[CVE-2021-45105](https://github.com/advisories/GHSA-p6xc-xr62-6r2g) (High)<br/>[CVE-2021-44832](https://github.com/advisories/GHSA-8489-44mv-ggj8) (Moderate)<br/>[CVE-2020-9488](https://github.com/advisories/GHSA-vwqq-5vrc-xw9h) (Low)|
+|[org.apache.logging.log4j:log4j-core](https://logging.apache.org/log4j/2.x/)|v2.1|06/26/20|Rohit Basu |Apache-2.0|[CVE-2017-5645](https://github.com/advisories/GHSA-fxph-q3j8-mv87) (Critical)<br/>[CVE-2021-45046](https://github.com/advisories/GHSA-7rjr-3q55-vv33) (Critical)<br/>[CVE-2021-44228](https://github.com/advisories/GHSA-jfh8-c2jp-5v3q) (Critical)<br/>[CVE-2021-45105](https://github.com/advisories/GHSA-p6xc-xr62-6r2g) (High)<br/>[CVE-2021-44832](https://github.com/advisories/GHSA-8489-44mv-ggj8) (Moderate)<br/>[CVE-2020-9488](https://github.com/advisories/GHSA-vwqq-5vrc-xw9h) (Low)|
 |[org.apache.logging.log4j:log4j-slf4j-impl]()|v2.1|06/26/20|Rohit Basu |Apache-2.0|N/A|
 |[org.mockito:mockito-all](http://www.mockito.org)|v1.10.19|06/24/20|Rohit Basu |MIT|N/A|
 |[org.powermock:powermock-api-mockito](http://www.powermock.org)|v1.7.3|06/24/20|Rohit Basu |Apache-2.0|N/A|
